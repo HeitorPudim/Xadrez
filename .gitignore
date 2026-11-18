@@ -1,0 +1,57 @@
+# === Python ===
+# Arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos de configuração local
+*.cfg
+*.ini
+*.toml
+*.local
+
+# Cache do pip
+pip-wheel-metadata/
+
+# === Editor/IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Sistema ===
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# === Projeto Xadrez_IA ===
+# Executável do Stockfish (muito grande - 103 MB)
+# Os usuários devem baixar o Stockfish separadamente
+stockfish/stockfish-windows-x86-64-universal.exe
+stockfish/stockfish-linux-x86-64-avx2
+stockfish/stockfish-mac-x86-64-avx2
+stockfish/stockfish-mac-arm64
+
+# Código-fonte do Stockfish (muito grande)
+# Apenas documentação e licença são mantidas
+stockfish/src/
+stockfish/nnue/
+stockfish/scripts/
+stockfish/wiki/
+stockfish/incbin/
+
+# Arquivos duplicados
+tabuleiro copy.py
+
+# Arquivos de análise locais
+*.pgn
+*.epd

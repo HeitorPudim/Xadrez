@@ -1,0 +1,6 @@
+# Dependências do projeto Xadrez_IA
+# Instale com: python -m pip install -r requirements.txt
+
+# python-chess: biblioteca para trabalhar com posições, movimentos e integração com motores de xadrez
+# Documentação: https://python.readthedocs.io/
+python-chess==1.999

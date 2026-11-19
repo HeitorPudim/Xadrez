@@ -2,10 +2,7 @@
 import tkinter as tk
 import chess
 import chess.engine
-
-
-# Caminho do Stockfish
-caminho_stockfish = r"C:\Users\heito\OneDrive\Documentos\xadrez_ia\stockfish\stockfish-windows-x86-64-universal"
+from stockfish_config import caminho_stockfish
 
 
 # Cria a janela

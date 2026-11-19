@@ -1,7 +1,6 @@
 import chess
 import chess.engine
-
-caminho_stockfish = r"C:\Users\heito\OneDrive\Documentos\xadrez_ia\stockfish\stockfish-windows-x86-64-universal"
+from stockfish_config import caminho_stockfish
 
 tabuleiro = chess.Board()
 

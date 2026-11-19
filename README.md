@@ -1,10 +1,10 @@
-# ♟️ Xadrez IA
+# ♟️ Xadrez
 
 Um programa de xadrez com interface gráfica, integração com o motor Stockfish e recursos de análise de partidas e posições.
 
 ## 📋 Sobre o Projeto
 
-O **Xadrez IA** é um projeto pessoal de xadrez desenvolvido em Python que combina:
+O **Xadrez** é um projeto pessoal de xadrez desenvolvido em Python que combina:
 
 - **Interface gráfica** completa com Tkinter
 - **Motor de xadrez Stockfish** para análise de posições
@@ -56,8 +56,8 @@ O **Xadrez IA** é um projeto pessoal de xadrez desenvolvido em Python que combi
 
 ```bash
 # 1. Clone ou baixe o repositório
-git clone https://github.com/seu-usuario/xadrez_ia.git
-cd xadrez_ia
+git clone https://github.com/seu-usuario/Xadrez.git
+cd xadrez
 
 # 2. Instale as dependências Python
 python -m pip install -r requirements.txt
@@ -94,7 +94,7 @@ python main.py
 
 ## 📄 Licenças
 
-### Projeto Xadrez IA
+### Projeto Xadrez
 Este projeto é de autoria pessoal e está sob licença [MIT](LICENSE) (a ser definida).
 
 ### Stockfish
